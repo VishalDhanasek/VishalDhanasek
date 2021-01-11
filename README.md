@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/VishalDhanasek/VishalDhanasek/main/Artboard 1 (4).png"/>
 <h1 align="center">Hi 👋, I'm Vishal D</h1>
 <h3 align="center">A passionate CSE student from Coimbatore, Tamil Nadu, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
