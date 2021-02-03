@@ -3,7 +3,7 @@
 <h3 align="center">A passionate CSE student from Coimbatore, Tamil Nadu, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<b>Portfolio :</b>**https://vishaldhanasek.github.io/VishalDhanasek01/**
+<b>Portfolio :</b>**vishaldhanasek.github.io**
 
 - 🔭 I’m currently studying in **Sri Eshwar college of engineering**
 
