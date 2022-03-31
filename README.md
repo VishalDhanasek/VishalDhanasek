@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently studying in **Sri Eshwar college of engineering**
 
-- 🌱 I’m currently learning **JAVA Script**
+- 🌱 I’m currently learning **JAVA**
 
-- 👯 I’m looking to collaborate on **Data Analysis**
+- 👯 I’m looking to collaborate on **Front End Web Development**
 
 - 🤝 I’m looking for help with **Problem solving, Logical Thinking**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Front End Web Development and UI UX Designing**
 
 - 📫 Reach me through **veeruvishal4@gmail.com**
 
